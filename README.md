@@ -13,3 +13,7 @@
 ```sh
 npm install react-router-dom@6
 ```
+
+To start local json server start:
+
+json-server --watch  posts.json --port 3001
